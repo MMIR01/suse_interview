@@ -1,0 +1,23 @@
+{
+    "users_ok":[
+    {
+        "username":"admin",
+        "password":"openSUSE2024"
+    }
+    ],
+    
+    "users_wrong":[
+    {
+        "username":"wrong_user",
+        "password":"openSUSE2024"
+    },
+    {
+        "username":"admin",
+        "password":"wrong_pass"
+    },   
+    {
+        "username":"wrong_user",
+        "password":"wrong_pass"
+    }
+]
+}
